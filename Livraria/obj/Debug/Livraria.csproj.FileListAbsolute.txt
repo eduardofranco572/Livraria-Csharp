@@ -1,0 +1,53 @@
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\Livraria.exe.config
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\Livraria.exe
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\Livraria.pdb
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.cadastro.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.Form1.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.pesquisa.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.exe
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.pdb
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\MySql.Data.dll
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\Google.Protobuf.dll
+D:\aluno22021.ds\Desktop\Livraria\Livraria\bin\Debug\MySql.Data.xml
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.CopyComplete
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\Livraria.exe.config
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\Livraria.exe
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\Livraria.pdb
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\MySql.Data.dll
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\Google.Protobuf.dll
+G:\DS\csharp bamco de dados\Livraria\Livraria\bin\Debug\MySql.Data.xml
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.csprojAssemblyReference.cache
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.cadastro.resources
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.Form1.resources
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.pesquisa.resources
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.csproj.CopyComplete
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.exe
+G:\DS\csharp bamco de dados\Livraria\Livraria\obj\Debug\Livraria.pdb
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.excluir.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.excluir2.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.Alterar1.resources
+D:\aluno22021.ds\Desktop\Livraria\Livraria\obj\Debug\Livraria.Alterar3.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\efs24\Desktop\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\efs24\Desktop\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\efs24\Desktop\Livraria\Livraria\bin\Debug\Google.Protobuf.dll
+C:\Users\efs24\Desktop\Livraria\Livraria\bin\Debug\MySql.Data.xml
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.Alterar3.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.Alterar1.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.cadastro.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.excluir.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.excluir2.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.Form1.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.pesquisa.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.csproj.CopyComplete
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\efs24\Desktop\Livraria\Livraria\obj\Debug\Livraria.pdb
